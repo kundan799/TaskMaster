@@ -30,7 +30,7 @@ const TableData = () => {
   };
 
   // <--------------------------------------data fetch------------------->
-  const url = "http://localhost:8080/api/project";
+  const url = "https://tame-school-uniform-bear.cyclic.app/api/project";
   const getdata = () => {
     axios
       .get(url)

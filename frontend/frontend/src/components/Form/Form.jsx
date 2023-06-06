@@ -71,7 +71,7 @@ const Form = () => {
       };
 
       console.log(data);
-      const url = "http://localhost:8080/api/project";
+      const url = "https://tame-school-uniform-bear.cyclic.app/api/project";
       axios
         .post(url, data)
         .then((res) => {

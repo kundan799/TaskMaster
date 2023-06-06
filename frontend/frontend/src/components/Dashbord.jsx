@@ -50,7 +50,7 @@ const Dashbord = () => {
   const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
   const [data, setData] = useState([]);
 
-  const url = "http://localhost:8080/api/project";
+  const url = "https://tame-school-uniform-bear.cyclic.app/api/project";
   const getdata = () => {
     axios
       .get(url)
@@ -67,9 +67,9 @@ const Dashbord = () => {
   console.log("cancelledData", cancelledData.length);
 
   // total status close
-  const closedData = data.filter((obj) => obj.status === "Close");
+  const closedData = data.filter((obj) => obj.status === "Closed");
   // start
-  const StartData = data.filter((obj) => obj.status === "Start");
+  const StartData = data.filter((obj) => obj.status === "Running");
 
   return (
     <Box
