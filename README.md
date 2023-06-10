@@ -45,6 +45,9 @@
 ![listing page](https://github.com/kundan799/TaskMaster/assets/101567147/24b82a60-143b-4fc9-9fc3-e849f74104bf)
 
 ![add page](https://github.com/kundan799/TaskMaster/assets/101567147/1be35f00-2037-4eae-bc90-e101a311278a)
+![mobile_home](https://github.com/kundan799/TaskMaster/assets/101567147/9587bbe8-4221-41bd-9834-55f074736063)
+![listing](https://github.com/kundan799/TaskMaster/assets/101567147/82615d6b-abef-4025-be1f-b271bbbcb3e0)
+![create_project](https://github.com/kundan799/TaskMaster/assets/101567147/188985be-6a52-4e05-9987-a325cdc336f5)
 
 ## Run Locally :
 Clone the Project
