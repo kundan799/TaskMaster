@@ -37,6 +37,15 @@
 - Pagination
 - Responsive
 
+
+![home page](https://github.com/kundan799/TaskMaster/assets/101567147/5b843735-3539-4ec8-8fce-39353d84d087)
+
+![Dashbord](https://github.com/kundan799/TaskMaster/assets/101567147/93792f4c-9c5b-48b4-ab0f-125670c695e6)
+
+![listing page](https://github.com/kundan799/TaskMaster/assets/101567147/24b82a60-143b-4fc9-9fc3-e849f74104bf)
+
+![add page](https://github.com/kundan799/TaskMaster/assets/101567147/1be35f00-2037-4eae-bc90-e101a311278a)
+
 ## Run Locally :
 Clone the Project
 ```
